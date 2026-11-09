@@ -27,6 +27,12 @@ Upload a photo, click **Scan**, and export a clean Excel sheet ready for your ma
 
 ---
 
+## 🖥️ Dashboard Preview
+
+![Motor Nameplate OCR Dashboard](MotorNameplateOCRDashboard.png)
+
+---
+
 ## ✨ Features
 
 | Feature | Details |
